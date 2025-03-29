@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-🔹 Passionate about **Applied Econometrics, Data Science, and Energy Economics**  
+🔹 Passionate about **Applied Econometrics, Statistics , Data Science, and Energy Economics**  
 🔹 Strong expertise in **Time Series, Individual & Panel Data Analysis**  
 🔹 Experienced in **Excel, Python, R, Stata, and SPSS**  
 🔹 Interested in **Energy Economics**, currently working on the **relationship between GDP and electricity consumption**  
@@ -33,14 +33,15 @@
 ---
 
 ### 📂 Featured Projects  
-🚀 **[Project 1: GDP & Electricity Consumption](https://github.com/your-username/project1)**  
-📌 **Tech Used**: R, Time Series Analysis, ARDL, Johansen Cointegration  
+🚀 **[Project 1: Relation between unemployement and Inflation](https://github.com/your-username/project2)**  
+📌 **Tech Used**: Python, Time Series, ADF Test ,Cointegration test , VECM, Policy breaf
 
-🚀 **[Project 2: Forecasting Inflation with ARIMA](https://github.com/your-username/project2)**  
-📌 **Tech Used**: R, Time Series, ADF Test, Forecasting  
+🚀 **[Project 2: Panel Data Analysis of Renewable Energy & Economic Growth](https://github.com/your-username/project3)**  
+📌 **Tech Used**: R, Panel Regression, Fixed & Random Effects Models  
 
-🚀 **[Project 3: Panel Data Analysis of Renewable Energy & Economic Growth](https://github.com/your-username/project3)**  
-📌 **Tech Used**: Python, Panel Regression, Fixed & Random Effects Models  
+🚀 **[Project 3: GDP & Electricity Consumption](https://github.com/your-username/project1)**  
+📌 **Tech Used**: R, Time Series Analysis, VECM , Johansen Cointegration  
+
 
 🔗 **More projects**: [See my repositories](https://github.com/your-username?tab=repositories)  
 
@@ -48,8 +49,8 @@
 
 ### 📬 Connect with Me  
 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
-💼 **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-📧 **Email**: ayoub30701@gmail.com  
+💼 **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/ayoub-wakrimi-a8746a2ba/)  
+📧 **Email**: [your-email-profile](ayoub30701@gmail.com)  
 
 ---
 
