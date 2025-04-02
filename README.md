@@ -48,9 +48,9 @@
 ---
 
 ### 📬 Connect with Me  
-🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
-💼 **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/ayoub-wakrimi-a8746a2ba/)  
-📧 **Email**: [your-email-profile](ayoub30701@gmail.com)  
+🌐 **Portfolio**: [PRTFL](https://your-portfolio.com)  
+💼 **LinkedIn**: [LNKDN](https://www.linkedin.com/in/ayoub-wakrimi-a8746a2ba/)  
+📧 **Email**: [ML](ayoub30701@gmail.com)  
 
 ---
 
